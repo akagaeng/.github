@@ -1,8 +1,8 @@
 ---
-name: 💡Ideas
-about: Ideas
+name: 🏗️Projects
+about: Projects
 title: ''
-labels: IDEA
+labels: project
 assignees: akagaeng
 
 ---
@@ -11,11 +11,11 @@ assignees: akagaeng
 
 > 
 
-## Goal
+## Type
 
 * 
 
-## Plan
+## Stack
 
 * 
 
