@@ -2,7 +2,7 @@
 name: 🔧 Fix
 about: You want a new feature
 title: ''
-labels: 'enhancement'
+labels: 'bug'
 assignees: akagaeng
 ---
 
