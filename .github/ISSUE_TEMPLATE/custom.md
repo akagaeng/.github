@@ -1,15 +1,18 @@
 ---
-name: 🚩 Custom issue template
-about: Describe this issue template's purpose here.
+name: 🚩 Custom
 title: ''
 labels: ''
 assignees: akagaeng
-
+projects: "akagaeng/12"
 ---
 
 ## Description
 
 <!-- 이슈 사항에 대해서 상세히 설명을 적어 주세요 -->
+
+## Checklist
+
+- [ ] 
 
 ## Reference
 
