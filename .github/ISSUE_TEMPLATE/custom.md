@@ -4,6 +4,7 @@ about: You want to create a new custom issue feature
 title: ''
 labels: ''
 assignees: akagaeng
+projects: "https://github.com/users/akagaeng/projects/12"
 ---
 
 ## Description
