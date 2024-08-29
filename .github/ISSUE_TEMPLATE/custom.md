@@ -3,7 +3,6 @@ name: 🚩 Custom
 title: ''
 labels: ''
 assignees: akagaeng
-projects: "12"
 ---
 
 ## Description
