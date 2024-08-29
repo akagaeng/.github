@@ -1,5 +1,6 @@
 ---
 name: 🚩 Feature
+about: You want a new feature
 title: ''
 labels: 'enhancement'
 assignees: akagaeng

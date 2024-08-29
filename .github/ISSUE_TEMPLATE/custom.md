@@ -1,9 +1,9 @@
 ---
 name: 🚩 Custom
+about: You want to create a new custom issue feature
 title: ''
 labels: ''
 assignees: akagaeng
-projects: "akagaeng/12"
 ---
 
 ## Description
