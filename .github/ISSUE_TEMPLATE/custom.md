@@ -1,10 +1,9 @@
 ---
-name: 🚩 Custom
+name: 📝 Custom
 about: You want to create a new custom issue feature
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: akagaeng
-projects: "akagaeng/12"
 ---
 
 ## Description
