@@ -1,9 +1,8 @@
 ---
-name: 🚩 Custom
+name: 🚩 Feature
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: akagaeng
-projects: "akagaeng/12"
 ---
 
 ## Description
