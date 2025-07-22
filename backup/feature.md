@@ -16,4 +16,4 @@ assignees: akagaeng
 
 ## Reference
 
-<!-- 이슈와 관련하여 참고가 될만한 URL 등을 추가해 주세요 -->
+이슈와 관련하여 참고가 될만한 URL 등을 추가해 주세요
